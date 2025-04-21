@@ -5,7 +5,7 @@ using namespace std;
 
 // Base class (Grandparent)
 class Grandfather {
-  private:
+  public:
     void Height() {
       cout << "Height is 5.7 Feet \n" ;
     }
